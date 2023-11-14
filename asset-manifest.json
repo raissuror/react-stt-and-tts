@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-stt-and-tts/static/css/main.1cc545da.css",
+    "main.js": "/react-stt-and-tts/static/js/main.70f51c3a.js",
+    "index.html": "/react-stt-and-tts/index.html",
+    "main.1cc545da.css.map": "/react-stt-and-tts/static/css/main.1cc545da.css.map",
+    "main.70f51c3a.js.map": "/react-stt-and-tts/static/js/main.70f51c3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cc545da.css",
+    "static/js/main.70f51c3a.js"
+  ]
+}
